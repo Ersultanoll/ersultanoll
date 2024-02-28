@@ -1,5 +1,9 @@
-### Hi there 👋 ok
+### Hi there 👋
 
+## I am a beginner frontend developer
+
+### Language and Tools
+![CSS](https://img.shields.io/badge/CSS-blue)
 <!--
 **Ersultanoll/ersultanoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
